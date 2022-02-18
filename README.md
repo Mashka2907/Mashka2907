@@ -16,7 +16,7 @@
 ![JMeter](https://img.shields.io/static/v1?style=for-the-badge&logo=apachejmeter&message=Jmeter&label=&color=852677&labelColor=000000)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&logo=Jiral&message=Jira&label=&color=32aab8&labelColor=000000)
 ![Canva](https://img.shields.io/static/v1?style=for-the-badge&logo=canva&message=Canva&label=&color=00c4cc&labelColor=000000)
-![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=bash&message=Bash&label=&color=9ACD32&labelColor=000000)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=Bash&message=Bash&label=&color=9ACD32&labelColor=000000)
 
 
 ## 📫 How to reach me

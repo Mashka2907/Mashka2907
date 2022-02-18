@@ -1,5 +1,7 @@
 ### ✨ Welcome To My GitHub Profile !
 
+!(https://www.canva.com/design/DAE4rrwpPZM/8U2jWhwMPzIZ8YXUjMoDxg/view?utm_content=DAE4rrwpPZM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ## I'm a beginner QA engineer
 - 💪 I am learning software testing
 - 🎉 I like to play sports
@@ -16,5 +18,3 @@
 
 ## 📫 How to reach me
 
-[Mariya Parfenova]: https://vk.com/mashka2907
-[GitHub, Inc]: https://github.com

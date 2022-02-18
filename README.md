@@ -26,3 +26,4 @@
 ## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=Telegram&label=&color=4682B4&labelColor=000000)](https://t.me/Maria_Parfik)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=maildotru&message=Email&label=&color=4169E1&labelColor=000000)](https://t.me/Maria_Parfik)

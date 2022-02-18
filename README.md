@@ -1,6 +1,6 @@
 ### ✨ Welcome To My GitHub Profile !
 
-
+![Braydon's GitHub Banner](./GitHubHeader.png)
 
 ## I'm a beginner QA engineer
 - 💪 I am learning software testing

@@ -21,6 +21,7 @@
 ![Charles](https://img.shields.io/static/v1?style=for-the-badge&message=Charles&label=&color=87CEEB&labelColor=000000)
 ![Devtools](https://img.shields.io/static/v1?style=for-the-badge&message=Devtools&label=&color=0000FF&labelColor=000000)
 ![SQLserver](https://img.shields.io/static/v1?style=for-the-badge&logo=microsoftsqlserver&message=sqlserver&label=&color=FF4500&labelColor=000000)
+![Oracle](https://img.shields.io/static/v1?style=for-the-badge&logo=oracle&message=oralce&label=&color=FF4500&labelColor=000000)
 ![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=github&label=&color=4B0082&labelColor=000000)
 
 ## 📫 How to reach me

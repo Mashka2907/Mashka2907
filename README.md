@@ -26,5 +26,4 @@
 ## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=Telegram&label=&color=4682B4&labelColor=000000)](https://t.me/Maria_Parfik)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=1E90FF&labelColor=000000)]()
 [![Vk](https://img.shields.io/static/v1?style=for-the-badge&logo=vk&message=vk&label=&color=4169E1&labelColor=000000)](https://vk.com/mashka2907)
